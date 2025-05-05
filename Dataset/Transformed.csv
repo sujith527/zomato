@@ -1,0 +1,1001 @@
+restaurant_name,order_date,item_count,delivery_time,total_cost,payment_method,customer_rating
+Restaurant_457,2024-02-10,5,79,1344.17,UPI,3.8
+Restaurant_343,2024-01-15,4,63,1672.1,"Net Banking",2.5
+Restaurant_336,2024-05-06,1,32,992.86,Wallet,2
+Restaurant_487,2024-02-02,3,31,1033.8,"Credit Card",3.5
+Restaurant_326,2024-07-28,9,50,1365.96,Wallet,1.6
+Restaurant_361,2024-12-04,6,31,918.36,COD,3.3
+Restaurant_458,2024-12-08,4,85,732.02,"Net Banking",4.7
+Restaurant_263,2024-09-14,10,17,618.44,UPI,2.9
+Restaurant_2,2024-01-27,8,54,462.92,Wallet,1.4
+Restaurant_121,2024-02-18,9,17,317.6,Wallet,2.2
+Restaurant_262,2024-12-14,5,86,1343.94,UPI,4.2
+Restaurant_45,2024-03-16,7,23,1065.32,"Credit Card",2.9
+Restaurant_338,2024-08-10,10,89,889.19,COD,2.7
+Restaurant_337,2024-09-03,8,65,1082.97,"Net Banking",2.6
+Restaurant_147,2024-09-13,8,87,1438.23,COD,2.7
+Restaurant_431,2024-11-18,4,53,916.43,UPI,2.7
+Restaurant_173,2024-04-16,10,70,577.11,UPI,2.1
+Restaurant_432,2024-08-04,2,48,797.58,COD,4.7
+Restaurant_470,2024-01-05,2,65,1829.31,Wallet,1.3
+Restaurant_48,2024-07-27,9,39,1604.65,COD,2.9
+Restaurant_479,2024-06-28,8,23,1389.15,UPI,3.7
+Restaurant_399,2024-05-17,3,21,225.25,UPI,3.5
+Restaurant_413,2024-10-27,7,15,1170.99,"Net Banking",4.6
+Restaurant_54,2024-01-06,7,25,1489.01,COD,2.7
+Restaurant_52,2024-07-25,7,74,527.85,"Credit Card",3.1
+Restaurant_395,2024-12-01,9,86,1566.55,UPI,3.6
+Restaurant_64,2024-10-21,3,59,1901.4,UPI,2.5
+Restaurant_37,2024-09-28,6,29,299.2,UPI,2
+Restaurant_319,2024-07-13,2,76,1066.17,COD,2.7
+Restaurant_318,2024-04-01,8,67,510.73,"Net Banking",3.2
+Restaurant_258,2024-01-09,3,82,788.83,"Net Banking",4.9
+Restaurant_33,2024-01-21,2,81,1917.09,"Net Banking",2.5
+Restaurant_120,2024-07-22,2,43,880.75,"Credit Card",4.1
+Restaurant_404,2024-08-04,1,22,1842.33,COD,4.8
+Restaurant_89,2024-11-06,3,21,1327.12,Wallet,1.7
+Restaurant_173,2024-07-01,3,21,428.82,"Credit Card",2.3
+Restaurant_382,2024-11-24,3,18,1883.86,Wallet,4.2
+Restaurant_79,2024-02-08,1,22,902.9,Wallet,4
+Restaurant_351,2024-02-13,1,54,303.11,COD,1.7
+Restaurant_429,2024-01-12,4,64,1650.2,COD,1.2
+Restaurant_17,2024-09-11,3,22,1226.41,UPI,1.2
+Restaurant_180,2024-07-18,10,74,426.35,UPI,2.8
+Restaurant_358,2024-09-03,1,42,305.12,UPI,2.6
+Restaurant_23,2024-04-04,9,33,662.03,COD,2.1
+Restaurant_427,2024-01-19,8,18,1456.34,Wallet,2.7
+Restaurant_307,2024-10-15,9,89,1960.73,UPI,2.7
+Restaurant_25,2024-03-25,1,49,1401.7,"Net Banking",1.2
+Restaurant_453,2024-09-01,5,19,1789.66,Wallet,1.8
+Restaurant_151,2024-01-13,3,27,1347.07,Wallet,1.9
+Restaurant_304,2024-02-12,4,51,665.34,UPI,2.6
+Restaurant_368,2024-04-02,3,81,1844.65,UPI,3.5
+Restaurant_104,2024-02-26,4,48,468.88,UPI,2.7
+Restaurant_5,2024-11-11,8,75,597.44,UPI,4.8
+Restaurant_105,2024-12-20,5,28,930.85,"Net Banking",4.6
+Restaurant_158,2024-11-01,2,18,1274.69,"Net Banking",3.4
+Restaurant_15,2024-11-15,5,31,1402.69,UPI,2.7
+Restaurant_0,2024-04-10,4,82,145.45,COD,2
+Restaurant_174,2024-09-12,9,71,1453.11,"Credit Card",4.3
+Restaurant_260,2024-03-02,4,60,1525.71,Wallet,1.3
+Restaurant_443,2024-12-02,1,89,1159.33,"Credit Card",4.9
+Restaurant_104,2024-02-03,2,20,1650.55,UPI,5
+Restaurant_184,2024-12-24,9,67,601.19,"Credit Card",2.1
+Restaurant_412,2024-08-12,4,83,580.71,"Net Banking",3.3
+Restaurant_426,2024-10-08,3,54,158.09,UPI,4.3
+Restaurant_204,2024-05-27,9,52,218.69,UPI,3.8
+Restaurant_266,2024-08-15,7,56,1641.44,"Credit Card",2
+Restaurant_88,2024-04-24,9,76,252.85,"Net Banking",3.2
+Restaurant_341,2024-05-26,2,89,507.44,UPI,2.6
+Restaurant_259,2024-01-14,9,90,1392.52,UPI,1.6
+Restaurant_240,2024-09-15,3,21,573.7,COD,2
+Restaurant_471,2024-03-28,10,15,381.85,"Credit Card",2.5
+Restaurant_173,2024-04-19,5,71,1817.71,Wallet,2.7
+Restaurant_480,2024-07-13,2,32,1655.93,Wallet,1.1
+Restaurant_485,2024-12-20,9,43,1530.83,Wallet,4.9
+Restaurant_233,2024-08-01,8,85,668.7,"Credit Card",1.8
+Restaurant_310,2024-10-16,10,21,746.32,"Credit Card",1.6
+Restaurant_297,2024-08-01,8,44,1018.39,UPI,1.6
+Restaurant_483,2024-02-08,2,70,179.28,COD,2.8
+Restaurant_109,2024-05-24,2,22,497.47,"Credit Card",3.5
+Restaurant_496,2024-08-15,9,88,1812.33,"Credit Card",1.4
+Restaurant_339,2024-12-24,10,56,1380.02,COD,2.8
+Restaurant_402,2024-09-25,6,40,274.44,"Credit Card",4
+Restaurant_199,2024-12-19,8,56,1449.41,"Net Banking",2.9
+Restaurant_498,2024-07-17,1,73,1348.82,UPI,4.6
+Restaurant_39,2024-05-10,6,23,1143.67,"Net Banking",3.2
+Restaurant_251,2024-12-03,4,45,1308.12,Wallet,4.4
+Restaurant_469,2024-03-05,8,43,1780.97,"Credit Card",1.7
+Restaurant_436,2024-03-01,8,53,769.76,"Credit Card",2.3
+Restaurant_488,2024-03-22,9,15,1625.7,"Credit Card",4.1
+Restaurant_63,2024-01-04,4,36,1720.77,COD,4.1
+Restaurant_43,2024-09-16,8,68,1683.54,COD,4.9
+Restaurant_238,2024-07-24,5,77,1464.79,"Net Banking",1.1
+Restaurant_31,2024-12-01,3,18,1796.56,UPI,5
+Restaurant_19,2024-09-15,9,63,1943.01,"Net Banking",4.8
+Restaurant_400,2024-08-28,6,66,874.24,"Credit Card",3.3
+Restaurant_467,2024-10-04,9,51,1380,Wallet,5
+Restaurant_324,2024-06-09,6,54,832.97,"Net Banking",4.3
+Restaurant_452,2024-01-09,9,43,1194.58,COD,1.7
+Restaurant_357,2024-04-09,10,76,978.62,"Credit Card",2.5
+Restaurant_390,2024-07-28,2,79,312.95,Wallet,3
+Restaurant_125,2024-08-11,8,65,794.62,Wallet,2.2
+Restaurant_298,2024-01-02,1,23,906.22,COD,4.7
+Restaurant_231,2024-07-17,4,16,1036.39,Wallet,4.1
+Restaurant_440,2024-05-14,9,16,333.49,UPI,4.5
+Restaurant_144,2024-07-19,7,54,823.83,"Credit Card",2.6
+Restaurant_212,2024-05-23,8,68,841.92,UPI,3.4
+Restaurant_231,2024-05-13,10,56,1737.29,COD,3
+Restaurant_37,2024-12-07,2,57,242.97,"Net Banking",2
+Restaurant_181,2024-01-10,5,71,1701.87,"Credit Card",3.2
+Restaurant_289,2024-03-08,8,80,435.43,UPI,3
+Restaurant_106,2024-01-08,7,20,1838.28,UPI,3.3
+Restaurant_68,2024-12-21,4,87,536.18,Wallet,2.6
+Restaurant_208,2024-01-25,10,33,832.42,UPI,1.4
+Restaurant_233,2024-10-14,7,45,308.62,COD,2.2
+Restaurant_51,2024-10-15,5,73,546.81,Wallet,4.3
+Restaurant_16,2024-12-26,7,32,736.79,"Credit Card",4.3
+Restaurant_137,2024-11-23,10,39,1055.17,"Net Banking",3.2
+Restaurant_286,2024-05-21,2,73,1447.81,"Credit Card",1.6
+Restaurant_10,2024-08-15,9,23,150.5,UPI,4.7
+Restaurant_45,2024-05-26,10,36,438.8,COD,4.6
+Restaurant_127,2024-04-11,9,41,1920.21,Wallet,4.4
+Restaurant_375,2024-09-02,8,21,265.38,UPI,2.7
+Restaurant_466,2024-04-15,8,75,184.81,COD,1.4
+Restaurant_348,2024-07-05,5,48,1814.88,"Credit Card",1.3
+Restaurant_172,2024-06-13,2,57,1894.01,"Net Banking",2.9
+Restaurant_335,2024-08-09,7,35,1170.88,"Net Banking",4.9
+Restaurant_276,2024-10-01,1,67,799.6,UPI,2.8
+Restaurant_200,2024-01-25,9,34,1886.86,Wallet,1.4
+Restaurant_193,2024-11-23,6,64,1759.42,Wallet,4.8
+Restaurant_373,2024-06-09,7,55,1999.82,COD,2.2
+Restaurant_54,2024-09-09,5,34,1527.27,Wallet,3.3
+Restaurant_66,2024-04-18,2,76,496.21,Wallet,1.4
+Restaurant_261,2024-06-07,4,40,1513.88,"Net Banking",3.3
+Restaurant_28,2024-02-09,2,24,381.5,COD,1.9
+Restaurant_8,2024-09-17,1,42,991.5,UPI,3.4
+Restaurant_184,2024-12-18,8,69,1131.79,Wallet,4.2
+Restaurant_461,2024-11-13,1,58,1028.69,COD,2.6
+Restaurant_367,2024-06-27,3,37,1191.86,UPI,4.3
+Restaurant_3,2024-06-04,3,60,362.39,UPI,3.2
+Restaurant_31,2024-01-08,1,68,243.8,"Net Banking",2.5
+Restaurant_240,2024-10-17,4,40,989.98,COD,2.3
+Restaurant_443,2024-01-13,5,87,1267.27,"Credit Card",3.7
+Restaurant_89,2024-02-22,3,43,397.79,COD,1.9
+Restaurant_347,2024-07-28,2,37,1323.34,COD,3.6
+Restaurant_100,2024-08-19,6,79,1489.51,"Net Banking",2.2
+Restaurant_496,2024-01-05,7,78,1559.84,"Credit Card",2.4
+Restaurant_494,2024-11-21,10,56,704.92,Wallet,1.2
+Restaurant_107,2024-10-24,1,71,1497.21,"Net Banking",1.6
+Restaurant_303,2024-01-02,2,37,1807.17,Wallet,3
+Restaurant_347,2024-10-11,7,50,1734.19,UPI,4
+Restaurant_335,2024-11-20,7,33,155.42,"Net Banking",4.3
+Restaurant_329,2024-03-22,1,34,239.84,"Net Banking",3.2
+Restaurant_210,2024-07-02,2,55,1669.28,COD,1
+Restaurant_289,2024-07-25,2,32,1168.44,"Net Banking",2.8
+Restaurant_66,2024-10-16,4,43,987.94,Wallet,2.9
+Restaurant_66,2024-06-10,9,71,1848.68,"Credit Card",4.6
+Restaurant_401,2024-05-02,7,58,1024.83,"Net Banking",2.2
+Restaurant_95,2024-09-04,3,24,436.1,COD,2
+Restaurant_34,2024-09-19,4,87,762.11,"Net Banking",3.9
+Restaurant_288,2024-08-05,8,62,1523.66,Wallet,2.7
+Restaurant_335,2024-08-15,1,78,1099.78,"Net Banking",1.5
+Restaurant_178,2024-10-05,9,64,553.38,"Net Banking",4.4
+Restaurant_375,2024-01-22,7,87,941.75,"Credit Card",3.1
+Restaurant_366,2024-11-21,7,20,312.27,Wallet,4.6
+Restaurant_69,2024-08-14,6,47,235.77,"Credit Card",4.6
+Restaurant_141,2024-10-16,10,23,504.83,COD,4.7
+Restaurant_324,2024-03-11,1,66,913.38,"Net Banking",2.9
+Restaurant_337,2024-06-27,4,65,1544.09,Wallet,2.6
+Restaurant_231,2024-08-22,8,50,1958.74,Wallet,3.7
+Restaurant_435,2024-11-13,7,29,742.57,"Net Banking",3.5
+Restaurant_394,2024-09-15,3,20,638.23,UPI,1.3
+Restaurant_119,2024-06-15,2,65,851.93,COD,4.7
+Restaurant_354,2024-04-28,2,79,344.62,COD,4.2
+Restaurant_256,2024-09-22,8,26,1015.29,Wallet,2.1
+Restaurant_227,2024-08-19,2,58,1564.91,"Credit Card",4.8
+Restaurant_143,2024-08-27,5,74,250.01,UPI,1.6
+Restaurant_104,2024-04-12,2,42,944.33,"Credit Card",4.4
+Restaurant_183,2024-11-25,9,60,1146.19,"Net Banking",1.5
+Restaurant_168,2024-11-12,9,60,200.76,COD,5
+Restaurant_82,2024-04-05,1,16,998.02,"Credit Card",4.9
+Restaurant_489,2024-10-03,2,56,417.89,COD,2.4
+Restaurant_136,2024-03-28,7,90,641.96,COD,4.4
+Restaurant_165,2024-05-17,6,27,234.46,"Net Banking",2.7
+Restaurant_411,2024-08-20,5,74,1855.92,COD,3.3
+Restaurant_84,2024-03-21,7,71,1129.2,"Net Banking",2.5
+Restaurant_324,2024-02-10,4,90,1138.14,UPI,2.5
+Restaurant_483,2024-03-25,3,75,1595.89,COD,4.6
+Restaurant_356,2024-03-28,6,40,607.5,Wallet,2.4
+Restaurant_247,2024-11-04,6,82,1874.58,"Net Banking",3.2
+Restaurant_414,2024-11-07,8,90,636.43,COD,4.8
+Restaurant_12,2024-06-01,1,83,335.48,Wallet,1.5
+Restaurant_283,2024-01-24,5,34,281.58,"Credit Card",2
+Restaurant_85,2024-12-14,7,62,760.98,COD,4.9
+Restaurant_94,2024-03-18,6,36,1604.01,"Credit Card",3.8
+Restaurant_478,2024-12-21,1,81,406.54,UPI,3.4
+Restaurant_139,2024-06-23,2,46,1929.44,"Credit Card",3.7
+Restaurant_97,2024-04-21,8,21,100.98,"Credit Card",1.2
+Restaurant_24,2024-12-15,8,40,1896.08,"Credit Card",3.5
+Restaurant_309,2024-01-19,2,32,1529.38,UPI,2.6
+Restaurant_138,2024-11-16,1,32,896.19,"Credit Card",2.4
+Restaurant_356,2024-12-12,7,89,1449.27,Wallet,2.5
+Restaurant_87,2024-11-15,7,49,1274.92,"Credit Card",4.3
+Restaurant_456,2024-10-25,2,73,175.73,"Net Banking",1.8
+Restaurant_180,2024-02-10,3,63,1548.83,Wallet,1.8
+Restaurant_253,2024-07-09,8,29,1733.61,"Credit Card",4.2
+Restaurant_135,2024-09-10,1,78,297.71,UPI,3.3
+Restaurant_498,2024-08-23,6,54,1656.59,COD,1.3
+Restaurant_162,2024-03-27,6,24,1118.65,COD,1.3
+Restaurant_112,2024-06-19,9,63,397.06,"Net Banking",4.4
+Restaurant_482,2024-09-25,1,51,526.92,COD,4.1
+Restaurant_394,2024-07-27,10,74,972.93,COD,4.7
+Restaurant_307,2024-07-20,5,67,1767.62,Wallet,2.8
+Restaurant_239,2024-04-25,5,78,1020.73,"Credit Card",4.1
+Restaurant_306,2024-02-04,10,52,297.24,UPI,3.7
+Restaurant_368,2024-09-17,5,46,528.07,"Credit Card",2.9
+Restaurant_45,2024-07-26,1,73,1254.11,"Net Banking",4.3
+Restaurant_46,2024-11-13,4,51,1267.23,"Credit Card",2.2
+Restaurant_426,2024-02-05,8,80,256.5,"Credit Card",1.6
+Restaurant_467,2024-09-19,6,64,468.58,UPI,1
+Restaurant_436,2024-04-25,7,43,686.55,"Credit Card",4.3
+Restaurant_197,2024-06-10,7,82,1969.77,COD,3.6
+Restaurant_345,2024-08-16,9,81,1684.55,"Credit Card",2.1
+Restaurant_308,2024-07-08,8,47,589.74,COD,3.5
+Restaurant_83,2024-05-24,4,88,1085.28,"Net Banking",3.4
+Restaurant_493,2024-11-15,7,86,583.91,"Net Banking",3.5
+Restaurant_223,2024-01-08,4,81,338.57,"Net Banking",2.9
+Restaurant_126,2024-11-11,7,38,1352.28,Wallet,4.2
+Restaurant_244,2024-10-20,4,50,1547.26,Wallet,1.5
+Restaurant_342,2024-04-28,3,20,1543.05,COD,4.5
+Restaurant_52,2024-12-21,5,63,1613.33,COD,1.7
+Restaurant_14,2024-03-26,5,16,1417.75,Wallet,1.5
+Restaurant_144,2024-09-14,5,25,280.31,UPI,2.4
+Restaurant_143,2024-09-21,7,84,1592.87,UPI,2.6
+Restaurant_154,2024-07-20,10,37,461.11,COD,2.7
+Restaurant_377,2024-08-17,9,17,1745.64,Wallet,3.5
+Restaurant_341,2024-02-05,9,44,1197.13,Wallet,3.8
+Restaurant_459,2024-08-05,10,69,1013.48,Wallet,1.6
+Restaurant_317,2024-09-03,1,70,1082.73,"Credit Card",3.5
+Restaurant_489,2024-11-13,9,90,1618.95,Wallet,2.7
+Restaurant_296,2024-02-12,7,25,1324.86,COD,1.7
+Restaurant_269,2024-08-27,3,43,1549.28,Wallet,2.7
+Restaurant_311,2024-11-23,1,78,1789.63,UPI,4.6
+Restaurant_95,2024-04-22,10,82,1896.35,Wallet,2.1
+Restaurant_28,2024-10-25,10,83,942.02,Wallet,2.4
+Restaurant_14,2024-08-04,7,18,1548.14,UPI,3
+Restaurant_32,2024-08-01,1,26,759.17,UPI,3.6
+Restaurant_188,2024-11-10,5,84,112.81,"Net Banking",2.4
+Restaurant_114,2024-04-20,8,61,912.03,COD,4.2
+Restaurant_281,2024-06-01,3,33,1574.93,COD,1.7
+Restaurant_203,2024-08-06,3,47,467.5,UPI,4
+Restaurant_11,2024-03-24,9,25,1921.63,Wallet,4.8
+Restaurant_363,2024-10-26,1,36,126.7,"Credit Card",2.9
+Restaurant_194,2024-09-08,10,28,1434.95,UPI,3.2
+Restaurant_206,2024-03-09,2,31,1426.24,COD,4.2
+Restaurant_360,2024-03-12,9,87,768.49,COD,4.8
+Restaurant_411,2024-01-20,4,90,1172.79,"Net Banking",4.1
+Restaurant_248,2024-03-20,5,67,891.64,UPI,3.6
+Restaurant_394,2024-05-24,10,28,1599.46,COD,2.2
+Restaurant_469,2024-07-17,9,67,1807.04,"Credit Card",1.2
+Restaurant_31,2024-11-03,3,58,1064.86,UPI,1.9
+Restaurant_120,2024-10-20,10,45,496.31,"Credit Card",1.3
+Restaurant_77,2024-03-23,1,30,1691.53,"Net Banking",1.2
+Restaurant_472,2024-05-09,8,16,565.48,UPI,1.1
+Restaurant_17,2024-08-01,1,25,1767.37,Wallet,3.7
+Restaurant_226,2024-11-03,10,16,1059.25,UPI,4.1
+Restaurant_51,2024-03-12,1,44,860.9,UPI,3.6
+Restaurant_404,2024-09-17,7,68,1418.62,Wallet,3.8
+Restaurant_106,2024-07-03,9,17,766.18,UPI,4.2
+Restaurant_434,2024-06-05,8,56,1050.63,UPI,2.7
+Restaurant_394,2024-05-23,2,69,1915.03,"Net Banking",1.2
+Restaurant_16,2024-04-03,9,50,1284.26,Wallet,4.1
+Restaurant_255,2024-10-09,5,54,1911.04,Wallet,4.1
+Restaurant_121,2024-06-15,4,21,1230.78,COD,4.8
+Restaurant_362,2024-09-01,2,64,542.2,"Net Banking",4
+Restaurant_233,2024-04-19,8,15,1602.1,COD,3.8
+Restaurant_423,2024-03-10,3,80,1525.86,COD,4.2
+Restaurant_442,2024-12-18,7,15,1982.97,Wallet,4.1
+Restaurant_372,2024-07-22,9,75,1033.57,"Net Banking",3.6
+Restaurant_240,2024-08-16,2,38,448.3,"Credit Card",4.9
+Restaurant_18,2024-08-17,9,38,151.32,"Credit Card",1.7
+Restaurant_430,2024-07-12,6,39,1957.69,"Net Banking",3.9
+Restaurant_115,2024-03-21,7,71,1582.27,Wallet,4.3
+Restaurant_145,2024-02-05,3,30,1121.43,COD,4.3
+Restaurant_406,2024-10-12,2,18,1481.54,UPI,2.7
+Restaurant_103,2024-10-14,2,20,121.55,"Net Banking",4.1
+Restaurant_343,2024-07-22,4,79,1380.4,UPI,4.1
+Restaurant_355,2024-03-27,7,79,993.62,COD,4.3
+Restaurant_37,2024-09-26,1,32,386.14,Wallet,4
+Restaurant_381,2024-08-22,6,41,603.25,UPI,1.5
+Restaurant_157,2024-09-01,6,37,1568.01,COD,1.5
+Restaurant_133,2024-11-26,1,53,907.75,UPI,1.4
+Restaurant_362,2024-08-27,6,29,737.91,COD,3.7
+Restaurant_138,2024-02-24,2,76,1267.71,"Credit Card",2.8
+Restaurant_430,2024-03-27,7,21,1865.08,COD,4.7
+Restaurant_385,2024-08-19,3,62,751.26,UPI,2.6
+Restaurant_99,2024-11-19,8,62,1849.55,COD,1.9
+Restaurant_253,2024-04-09,8,77,877.69,Wallet,3.3
+Restaurant_37,2024-03-25,9,90,916.73,COD,3.3
+Restaurant_247,2024-12-22,5,36,1446.83,COD,1.8
+Restaurant_307,2024-02-27,7,28,752.56,"Credit Card",2.4
+Restaurant_442,2024-08-24,5,16,1549.09,Wallet,4.9
+Restaurant_430,2024-12-13,8,57,1172.73,UPI,3.4
+Restaurant_194,2024-09-01,8,53,1694.11,"Net Banking",3.8
+Restaurant_244,2024-02-14,10,87,937.84,COD,3.3
+Restaurant_302,2024-04-23,5,28,1535.16,Wallet,3
+Restaurant_227,2024-02-03,7,23,1316.57,"Credit Card",3.3
+Restaurant_219,2024-11-27,6,41,753.43,"Credit Card",3.5
+Restaurant_157,2024-02-27,7,36,1181.74,"Net Banking",4
+Restaurant_184,2024-11-17,1,35,503.91,UPI,4.5
+Restaurant_246,2024-11-15,1,19,1925.66,"Net Banking",1.4
+Restaurant_295,2024-02-15,7,55,724.05,Wallet,4.6
+Restaurant_263,2024-04-16,6,77,1710.05,"Net Banking",3.1
+Restaurant_483,2024-01-13,9,38,1777.82,Wallet,3.6
+Restaurant_453,2024-04-18,2,61,1053.77,COD,3.2
+Restaurant_302,2024-10-05,7,21,1879.84,"Credit Card",2
+Restaurant_125,2024-01-10,8,39,199.27,Wallet,2.4
+Restaurant_112,2024-03-02,5,69,1046.55,"Credit Card",3.4
+Restaurant_368,2024-05-14,7,72,880.52,Wallet,4.4
+Restaurant_215,2024-09-24,4,79,500.49,"Credit Card",1.2
+Restaurant_152,2024-02-28,7,84,1244.6,COD,2.7
+Restaurant_326,2024-09-13,6,67,137.89,"Credit Card",4
+Restaurant_416,2024-06-26,2,40,962.13,COD,2.6
+Restaurant_288,2024-11-12,4,16,1038.5,"Net Banking",4.1
+Restaurant_114,2024-10-09,6,55,1713.64,Wallet,2.3
+Restaurant_36,2024-03-18,3,85,1478.45,UPI,4.3
+Restaurant_14,2024-05-19,6,62,1174.55,UPI,2.2
+Restaurant_342,2024-03-26,4,32,542.79,"Credit Card",2.2
+Restaurant_245,2024-02-14,8,53,274.4,UPI,4.7
+Restaurant_489,2024-09-17,9,19,1022.58,UPI,2.3
+Restaurant_31,2024-10-22,5,17,370.6,COD,3.2
+Restaurant_106,2024-02-27,3,57,983.42,"Credit Card",1.3
+Restaurant_23,2024-07-19,8,60,1756.62,COD,1.3
+Restaurant_183,2024-03-04,4,45,681.93,COD,4.2
+Restaurant_152,2024-06-02,3,24,1091.07,COD,3.7
+Restaurant_295,2024-02-24,2,15,310.3,UPI,3.3
+Restaurant_153,2024-02-18,3,75,1152.15,"Credit Card",1.4
+Restaurant_124,2024-05-11,8,52,1270.81,Wallet,2.3
+Restaurant_425,2024-06-18,6,21,198.72,COD,1.9
+Restaurant_372,2024-09-12,7,49,1699.79,"Credit Card",2.7
+Restaurant_208,2024-08-11,2,18,1223.35,UPI,3.6
+Restaurant_439,2024-11-05,10,23,573.05,COD,3.7
+Restaurant_3,2024-02-25,3,87,186.58,UPI,2
+Restaurant_313,2024-05-08,6,63,429.02,Wallet,4.1
+Restaurant_143,2024-10-18,4,19,315.91,"Net Banking",4.1
+Restaurant_61,2024-11-01,1,29,1413.71,"Net Banking",1.6
+Restaurant_469,2024-08-03,7,63,1669.17,UPI,1.6
+Restaurant_340,2024-09-22,3,86,1607.74,"Net Banking",1.4
+Restaurant_478,2024-04-15,6,22,940.54,UPI,1.2
+Restaurant_65,2024-12-16,5,35,668.84,Wallet,3.6
+Restaurant_315,2024-11-04,5,28,948.5,UPI,3.6
+Restaurant_417,2024-08-23,5,18,1648.06,UPI,2.5
+Restaurant_195,2024-06-02,10,73,812.77,Wallet,2.7
+Restaurant_15,2024-11-14,6,20,1622.85,"Credit Card",2.8
+Restaurant_316,2024-07-25,5,65,1267.71,"Net Banking",3.8
+Restaurant_441,2024-06-12,10,90,1795.55,"Net Banking",3.1
+Restaurant_40,2024-03-18,10,76,514.25,"Credit Card",4.4
+Restaurant_442,2024-11-13,1,53,341.57,"Credit Card",4.8
+Restaurant_393,2024-10-06,8,28,796.05,UPI,1.9
+Restaurant_484,2024-04-20,3,32,215.78,"Credit Card",4.8
+Restaurant_333,2024-11-16,10,55,203.56,Wallet,4.9
+Restaurant_58,2024-02-01,5,81,1387.92,"Credit Card",2
+Restaurant_114,2024-03-18,5,20,1942.87,UPI,1
+Restaurant_76,2024-03-06,5,34,1626.1,"Credit Card",3.4
+Restaurant_492,2024-10-15,9,83,1856.66,Wallet,2.7
+Restaurant_426,2024-11-01,4,58,470.25,COD,1
+Restaurant_341,2024-04-26,2,17,222.28,COD,1.1
+Restaurant_474,2024-11-15,9,28,588.21,Wallet,2.1
+Restaurant_72,2024-02-26,5,53,1844.29,COD,3.1
+Restaurant_198,2024-01-18,2,47,1504.57,"Net Banking",4
+Restaurant_210,2024-10-10,8,52,1164.55,"Credit Card",2.2
+Restaurant_368,2024-05-16,5,17,1110.1,UPI,3
+Restaurant_310,2024-07-17,9,84,1260.15,"Net Banking",4.6
+Restaurant_313,2024-10-13,10,44,101.67,COD,1.9
+Restaurant_55,2024-08-02,7,33,1517.38,Wallet,3.5
+Restaurant_75,2024-04-15,9,86,1835.1,UPI,1.1
+Restaurant_496,2024-05-12,6,87,1117.12,"Credit Card",4
+Restaurant_314,2024-07-19,7,77,1529.44,"Net Banking",1.1
+Restaurant_333,2024-04-14,2,83,1035.05,"Credit Card",2.8
+Restaurant_335,2024-01-20,8,56,1381.64,Wallet,3.8
+Restaurant_68,2024-03-04,1,25,1033.25,"Credit Card",3.1
+Restaurant_348,2024-10-07,3,15,1367.65,"Credit Card",2.9
+Restaurant_10,2024-01-13,7,68,707.76,UPI,1.7
+Restaurant_26,2024-07-23,9,31,818.9,"Credit Card",3.2
+Restaurant_36,2024-04-06,1,76,1653.26,"Net Banking",3.5
+Restaurant_193,2024-06-04,9,48,1226.91,UPI,1.7
+Restaurant_141,2024-07-28,5,36,1320.69,"Credit Card",3.7
+Restaurant_114,2024-02-01,3,86,1871.66,COD,2.1
+Restaurant_25,2024-06-12,8,29,883.05,"Net Banking",3.6
+Restaurant_458,2024-06-17,1,17,713.8,"Credit Card",4.7
+Restaurant_368,2024-08-19,4,70,1488.48,UPI,4.4
+Restaurant_217,2024-05-02,10,26,1044.38,"Net Banking",4.5
+Restaurant_16,2024-09-26,2,31,679.31,"Net Banking",4.9
+Restaurant_370,2024-03-27,2,69,1669.66,"Credit Card",3.7
+Restaurant_448,2024-05-12,6,53,1027.78,"Credit Card",4.5
+Restaurant_51,2024-05-26,1,33,1128.59,Wallet,4.9
+Restaurant_163,2024-08-13,6,18,549.89,UPI,3.5
+Restaurant_376,2024-06-17,2,81,897.11,UPI,1.3
+Restaurant_170,2024-04-03,9,85,1799.96,COD,1.2
+Restaurant_180,2024-11-16,7,88,1474.77,"Net Banking",2.2
+Restaurant_166,2024-02-02,10,80,1801.24,UPI,2
+Restaurant_434,2024-07-04,9,65,279.45,Wallet,2.7
+Restaurant_362,2024-12-03,4,77,405.62,"Credit Card",3.4
+Restaurant_265,2024-05-16,3,79,1127.29,UPI,3.9
+Restaurant_309,2024-05-06,4,16,1105.66,Wallet,1.3
+Restaurant_297,2024-06-25,5,86,1424.73,"Net Banking",1.1
+Restaurant_193,2024-12-01,4,47,696.55,"Net Banking",3.6
+Restaurant_182,2024-12-16,8,77,615.98,"Net Banking",1.5
+Restaurant_52,2024-05-07,7,39,1092.46,COD,1.9
+Restaurant_455,2024-10-12,8,37,1886.37,UPI,1.3
+Restaurant_499,2024-11-03,9,56,1660.54,"Net Banking",4.4
+Restaurant_414,2024-02-05,10,64,392.29,"Net Banking",1.1
+Restaurant_306,2024-12-02,5,88,1035.29,UPI,4.9
+Restaurant_52,2024-12-27,7,31,292.12,COD,3.3
+Restaurant_190,2024-06-07,5,39,1371.26,"Credit Card",2.4
+Restaurant_173,2024-11-19,6,54,1329.18,COD,2.5
+Restaurant_45,2024-06-12,4,30,292.86,"Credit Card",1.8
+Restaurant_242,2024-09-03,1,43,683.35,"Net Banking",4.2
+Restaurant_45,2024-05-04,6,64,1775.29,"Net Banking",4.5
+Restaurant_320,2024-02-15,3,57,901.27,"Net Banking",3.4
+Restaurant_387,2024-11-19,3,26,1887.94,"Credit Card",1.6
+Restaurant_360,2024-08-25,3,86,1655.74,"Net Banking",2.1
+Restaurant_6,2024-03-18,8,76,280.49,Wallet,3.8
+Restaurant_299,2024-11-17,1,51,111.96,COD,1.3
+Restaurant_56,2024-11-09,7,90,140.3,COD,2.3
+Restaurant_408,2024-10-19,4,64,1236.9,Wallet,1.2
+Restaurant_477,2024-02-14,8,38,939.74,UPI,1.8
+Restaurant_186,2024-06-28,8,61,1552.25,UPI,1.1
+Restaurant_144,2024-03-10,5,61,236.16,UPI,2.9
+Restaurant_250,2024-08-16,6,56,768.17,COD,2.4
+Restaurant_413,2024-09-28,5,38,355.34,Wallet,1.2
+Restaurant_475,2024-04-27,10,53,1768.1,COD,2.2
+Restaurant_62,2024-09-07,7,42,564.94,"Credit Card",4.3
+Restaurant_263,2024-02-03,1,81,177.48,COD,3.2
+Restaurant_378,2024-01-26,10,87,1583.22,Wallet,2.4
+Restaurant_45,2024-12-22,5,17,1773.97,"Net Banking",1.6
+Restaurant_143,2024-07-27,6,59,430.98,COD,5
+Restaurant_101,2024-06-27,2,17,780.61,"Net Banking",4.5
+Restaurant_43,2024-08-10,8,21,463.05,COD,1.5
+Restaurant_469,2024-08-28,8,18,591.24,Wallet,2.5
+Restaurant_340,2024-06-01,3,34,1061.42,Wallet,2.2
+Restaurant_32,2024-12-24,10,56,520.06,Wallet,4.3
+Restaurant_51,2024-06-09,3,54,1055.67,"Net Banking",2.8
+Restaurant_211,2024-03-01,8,56,1107.74,"Credit Card",2.5
+Restaurant_194,2024-06-20,8,34,1194.31,UPI,4.6
+Restaurant_425,2024-01-23,4,68,487,"Credit Card",1.2
+Restaurant_148,2024-10-11,6,80,1136.41,COD,1.3
+Restaurant_151,2024-09-24,3,18,421.5,"Net Banking",4.2
+Restaurant_269,2024-07-28,7,66,1162.26,"Credit Card",2
+Restaurant_492,2024-07-04,3,25,384.71,UPI,1.7
+Restaurant_91,2024-05-01,2,63,1307.19,"Net Banking",2.2
+Restaurant_160,2024-11-03,5,74,1563.03,"Net Banking",2.5
+Restaurant_153,2024-06-16,6,56,1111.67,Wallet,3.8
+Restaurant_337,2024-09-17,2,69,1815.56,"Credit Card",2.8
+Restaurant_204,2024-03-03,10,42,1710.94,"Credit Card",4.2
+Restaurant_421,2024-12-05,9,50,509.69,UPI,4.8
+Restaurant_83,2024-06-02,8,86,1254.49,"Net Banking",1.1
+Restaurant_381,2024-08-22,7,16,1865.48,"Net Banking",1.4
+Restaurant_421,2024-07-17,6,69,1941.33,"Credit Card",1.8
+Restaurant_398,2024-05-17,5,63,855.9,"Net Banking",4
+Restaurant_487,2024-07-18,8,84,317.07,UPI,1
+Restaurant_368,2024-11-07,2,62,1498.33,"Credit Card",1.4
+Restaurant_216,2024-08-23,2,30,966.48,"Credit Card",2.9
+Restaurant_345,2024-09-20,7,85,601.42,"Net Banking",1.5
+Restaurant_237,2024-05-16,9,66,240.36,Wallet,2.2
+Restaurant_305,2024-02-01,10,53,1022.01,COD,2.3
+Restaurant_283,2024-07-10,2,59,1808.13,COD,4.7
+Restaurant_265,2024-06-11,7,29,1677.37,COD,4.3
+Restaurant_259,2024-12-16,10,76,1818.22,Wallet,1.1
+Restaurant_210,2024-09-21,10,60,415.69,"Net Banking",3.3
+Restaurant_369,2024-07-25,10,33,166.82,COD,1.9
+Restaurant_9,2024-07-10,2,33,961.45,UPI,3.3
+Restaurant_247,2024-02-11,6,22,214.25,COD,2.1
+Restaurant_133,2024-05-16,3,58,1485.92,UPI,2.6
+Restaurant_270,2024-05-16,9,19,435.01,UPI,4.3
+Restaurant_219,2024-08-03,5,19,1265.55,"Net Banking",4.4
+Restaurant_26,2024-05-24,3,58,841.74,Wallet,1.7
+Restaurant_148,2024-12-16,7,24,1107.26,"Net Banking",1.8
+Restaurant_338,2024-05-23,10,84,823.63,COD,1.5
+Restaurant_442,2024-03-02,4,89,819,COD,3.8
+Restaurant_497,2024-02-01,2,36,853.28,UPI,1.1
+Restaurant_438,2024-07-12,9,47,1045.11,Wallet,3.3
+Restaurant_146,2024-03-22,7,57,1692.23,Wallet,2.9
+Restaurant_426,2024-01-02,1,25,1695.54,"Credit Card",1.1
+Restaurant_264,2024-01-14,2,37,399.17,"Net Banking",3.7
+Restaurant_179,2024-02-14,8,67,843.39,UPI,2.6
+Restaurant_37,2024-09-28,2,29,926.27,UPI,1.3
+Restaurant_77,2024-10-10,5,73,1814.04,"Credit Card",3.8
+Restaurant_157,2024-11-03,5,85,909.35,UPI,4.5
+Restaurant_320,2024-12-04,2,27,1507.85,COD,1.7
+Restaurant_413,2024-06-22,1,21,819.39,"Credit Card",1.4
+Restaurant_401,2024-06-28,4,76,472.29,Wallet,4.8
+Restaurant_82,2024-10-18,2,84,1343.19,UPI,2.2
+Restaurant_56,2024-06-08,4,30,874.89,UPI,3.9
+Restaurant_413,2024-04-18,5,19,144.91,"Net Banking",3.5
+Restaurant_196,2024-04-28,10,76,1525.69,COD,4.2
+Restaurant_391,2024-02-23,4,16,386.31,"Net Banking",4.5
+Restaurant_91,2024-10-02,6,26,1553.38,"Credit Card",4.2
+Restaurant_5,2024-10-20,4,87,1002.44,"Credit Card",3.7
+Restaurant_472,2024-02-21,7,87,1853.93,"Net Banking",3
+Restaurant_91,2024-05-21,1,64,898.62,COD,4.7
+Restaurant_46,2024-07-01,9,82,957.71,"Credit Card",1.6
+Restaurant_325,2024-06-07,4,88,439.35,Wallet,2.1
+Restaurant_205,2024-05-22,8,31,1285.64,"Net Banking",2.6
+Restaurant_247,2024-02-15,1,70,419.49,UPI,1.8
+Restaurant_352,2024-10-20,2,28,408.24,UPI,1.6
+Restaurant_482,2024-01-07,4,45,533.27,Wallet,4.2
+Restaurant_45,2024-06-13,4,58,1722.83,"Credit Card",3.7
+Restaurant_486,2024-04-25,2,61,1171.57,UPI,2.2
+Restaurant_47,2024-10-27,5,17,106.14,"Net Banking",4.3
+Restaurant_62,2024-09-03,8,46,1848.37,Wallet,2.4
+Restaurant_433,2024-03-20,8,86,1381.4,UPI,3
+Restaurant_2,2024-05-09,1,63,134.73,"Net Banking",2.2
+Restaurant_99,2024-12-20,5,53,712.26,"Net Banking",1.6
+Restaurant_135,2024-05-24,7,18,1999.05,"Credit Card",1.1
+Restaurant_131,2024-11-19,9,53,572.8,"Net Banking",5
+Restaurant_137,2024-03-03,2,87,1223.62,Wallet,1.8
+Restaurant_304,2024-12-07,4,15,356.71,Wallet,4.7
+Restaurant_200,2024-08-19,4,47,838.68,COD,2.1
+Restaurant_101,2024-10-10,4,31,433.41,"Net Banking",1.3
+Restaurant_237,2024-02-07,10,18,522.17,UPI,2.5
+Restaurant_391,2024-04-20,3,68,363.16,"Credit Card",1.6
+Restaurant_411,2024-02-26,2,28,1144.5,COD,4.5
+Restaurant_284,2024-02-16,10,69,364.53,COD,4.9
+Restaurant_152,2024-02-06,9,76,514.26,Wallet,4.9
+Restaurant_348,2024-08-05,3,77,332.56,COD,1.1
+Restaurant_91,2024-07-20,3,83,351.39,"Net Banking",3.1
+Restaurant_240,2024-01-02,5,29,1215.53,"Credit Card",1.8
+Restaurant_400,2024-09-04,8,20,764.96,"Credit Card",3.7
+Restaurant_67,2024-04-02,10,52,692.17,"Net Banking",4.9
+Restaurant_229,2024-08-28,8,29,1259.76,"Net Banking",5
+Restaurant_86,2024-01-18,6,58,1954.77,COD,4.9
+Restaurant_12,2024-11-24,3,63,301.39,UPI,1.4
+Restaurant_138,2024-12-28,9,77,984.54,"Credit Card",3.5
+Restaurant_204,2024-08-08,6,32,1057.85,"Net Banking",1.2
+Restaurant_444,2024-03-05,3,34,1598.27,"Net Banking",4.9
+Restaurant_263,2024-08-27,9,54,1257.08,COD,4.4
+Restaurant_170,2024-05-07,8,24,320.03,Wallet,4.1
+Restaurant_188,2024-09-09,5,43,1277.18,Wallet,2.3
+Restaurant_361,2024-09-20,5,31,109.98,UPI,3.1
+Restaurant_300,2024-02-03,9,15,1106.95,COD,2
+Restaurant_363,2024-07-17,9,25,1645.74,"Credit Card",2.5
+Restaurant_466,2024-05-25,2,19,497.39,"Credit Card",3.2
+Restaurant_442,2024-10-03,8,19,1330.31,"Credit Card",2.8
+Restaurant_319,2024-07-18,6,63,1577.24,COD,2.7
+Restaurant_388,2024-09-07,9,44,984.4,"Net Banking",3.1
+Restaurant_70,2024-02-03,2,63,117.87,COD,1.3
+Restaurant_452,2024-06-07,9,27,1905.95,"Credit Card",3.6
+Restaurant_239,2024-04-14,4,74,1383.87,UPI,3.1
+Restaurant_387,2024-03-15,2,72,1812.85,"Net Banking",1.1
+Restaurant_140,2024-07-09,1,86,617.46,Wallet,3.1
+Restaurant_435,2024-05-28,8,83,1326.71,"Net Banking",2
+Restaurant_37,2024-07-06,8,85,1931.85,"Net Banking",3.6
+Restaurant_79,2024-01-16,10,87,133.07,"Credit Card",3.6
+Restaurant_34,2024-11-04,2,45,1049.66,Wallet,2
+Restaurant_434,2024-11-04,3,36,279.42,"Credit Card",3
+Restaurant_361,2024-11-27,6,27,347.97,UPI,3.4
+Restaurant_344,2024-02-09,7,62,1056.27,COD,2.4
+Restaurant_121,2024-01-22,4,64,1125.1,"Credit Card",2
+Restaurant_162,2024-10-10,6,84,836.06,UPI,4.9
+Restaurant_64,2024-05-07,2,74,1375.02,COD,3.6
+Restaurant_225,2024-08-16,2,82,835.75,Wallet,3
+Restaurant_122,2024-02-19,3,81,317.53,COD,3.1
+Restaurant_110,2024-07-23,3,35,1852.38,"Net Banking",4.2
+Restaurant_240,2024-09-25,8,44,635.16,COD,3.4
+Restaurant_216,2024-05-19,5,38,592.92,"Net Banking",3.4
+Restaurant_306,2024-05-14,4,62,288.61,Wallet,1.9
+Restaurant_429,2024-01-05,3,75,407.1,UPI,4.6
+Restaurant_303,2024-11-16,7,65,1977.13,UPI,4.6
+Restaurant_340,2024-04-16,2,31,337.36,"Net Banking",3.7
+Restaurant_392,2024-05-22,10,37,1365.75,COD,2.8
+Restaurant_385,2024-01-27,4,81,359.04,COD,3.1
+Restaurant_430,2024-05-17,7,65,179.19,"Credit Card",1.9
+Restaurant_341,2024-05-19,10,30,798.64,"Net Banking",1.3
+Restaurant_414,2024-04-04,5,39,183.15,Wallet,3.3
+Restaurant_31,2024-06-02,2,52,1360.55,Wallet,4.7
+Restaurant_72,2024-06-10,3,45,279.61,"Net Banking",1.4
+Restaurant_396,2024-05-26,9,88,352.06,"Credit Card",2.4
+Restaurant_180,2024-05-14,4,61,835.28,"Net Banking",2.2
+Restaurant_127,2024-07-14,9,31,1767.17,"Credit Card",1.6
+Restaurant_82,2024-04-14,4,66,745.32,UPI,1.7
+Restaurant_469,2024-01-25,3,71,1531.63,Wallet,4.6
+Restaurant_404,2024-11-09,9,39,1124.7,COD,4.4
+Restaurant_63,2024-08-28,2,41,743.52,UPI,4.1
+Restaurant_341,2024-02-07,6,32,790.17,"Credit Card",2
+Restaurant_254,2024-09-18,7,87,170.36,COD,2.9
+Restaurant_4,2024-03-10,10,65,878.73,Wallet,3.2
+Restaurant_215,2024-10-13,2,76,293.08,"Credit Card",3.5
+Restaurant_491,2024-01-02,8,63,1903.86,"Net Banking",4.3
+Restaurant_44,2024-05-03,5,60,1725.62,Wallet,3.5
+Restaurant_104,2024-04-20,5,46,1484.5,Wallet,2.7
+Restaurant_189,2024-04-24,2,86,903.66,Wallet,4
+Restaurant_371,2024-10-26,3,84,1714.32,Wallet,1.1
+Restaurant_113,2024-12-28,4,37,1356.56,COD,2.3
+Restaurant_188,2024-05-25,4,34,498.27,COD,1.2
+Restaurant_141,2024-09-13,2,79,1706.52,UPI,4.8
+Restaurant_354,2024-08-24,4,44,672.65,COD,4.3
+Restaurant_371,2024-05-13,2,71,1692.78,"Net Banking",4.5
+Restaurant_53,2024-07-08,9,83,1959.01,UPI,4.9
+Restaurant_149,2024-06-12,3,37,107.29,"Net Banking",1.9
+Restaurant_142,2024-01-06,1,71,849.88,Wallet,2.8
+Restaurant_153,2024-02-10,1,76,1049.86,COD,4.4
+Restaurant_372,2024-06-19,9,24,1002.97,Wallet,3.3
+Restaurant_210,2024-01-28,3,69,1896.3,"Net Banking",1.5
+Restaurant_266,2024-06-12,7,44,1396.82,Wallet,2.5
+Restaurant_446,2024-06-21,4,82,166.23,"Credit Card",2.3
+Restaurant_140,2024-10-26,6,72,1845.76,"Credit Card",1.3
+Restaurant_152,2024-11-07,10,31,849.38,UPI,2.3
+Restaurant_314,2024-07-22,10,26,1394.17,"Net Banking",4.9
+Restaurant_16,2024-05-07,7,26,984.36,"Credit Card",1.9
+Restaurant_50,2024-11-16,10,75,1036.75,"Credit Card",3.1
+Restaurant_203,2024-06-27,7,18,1882.36,"Credit Card",4.3
+Restaurant_4,2024-09-09,1,69,688.68,"Net Banking",5
+Restaurant_415,2024-11-21,4,69,665.97,"Credit Card",3.3
+Restaurant_136,2024-11-05,5,64,1458.43,"Net Banking",2.3
+Restaurant_109,2024-11-02,5,54,1896.17,Wallet,3.1
+Restaurant_224,2024-06-19,8,63,158.16,Wallet,2.1
+Restaurant_145,2024-09-28,3,76,540.19,Wallet,3.2
+Restaurant_174,2024-06-14,5,88,107.96,Wallet,1.4
+Restaurant_284,2024-12-21,7,29,403.75,"Credit Card",1.1
+Restaurant_387,2024-12-04,2,62,1206.89,"Credit Card",4.6
+Restaurant_241,2024-02-23,10,76,1864.78,UPI,1.5
+Restaurant_89,2024-02-18,4,35,707.13,Wallet,2.5
+Restaurant_396,2024-11-08,3,89,1224.45,UPI,2
+Restaurant_77,2024-08-22,2,39,251.23,COD,3
+Restaurant_409,2024-09-26,2,59,1937.06,COD,2.2
+Restaurant_304,2024-03-27,2,52,788.53,COD,1.9
+Restaurant_356,2024-12-26,2,69,1202.55,UPI,1.5
+Restaurant_83,2024-01-15,6,88,1118.64,"Credit Card",3.8
+Restaurant_490,2024-08-26,7,21,159.91,UPI,3.2
+Restaurant_247,2024-11-16,7,19,738.15,"Net Banking",2.2
+Restaurant_406,2024-12-18,7,22,157.18,"Net Banking",4.4
+Restaurant_93,2024-02-04,8,88,935.2,UPI,2.3
+Restaurant_243,2024-02-20,6,45,1263.16,COD,3.6
+Restaurant_137,2024-07-26,5,19,1163.53,"Credit Card",2.3
+Restaurant_229,2024-05-15,8,67,147,COD,3.9
+Restaurant_109,2024-06-15,5,89,1273.16,COD,4.7
+Restaurant_431,2024-01-04,2,80,483.37,"Net Banking",1.3
+Restaurant_317,2024-04-17,2,56,774.77,"Credit Card",4.1
+Restaurant_107,2024-09-01,2,50,898.55,Wallet,1.6
+Restaurant_38,2024-09-10,7,19,1452.39,"Net Banking",2.3
+Restaurant_242,2024-02-10,8,70,1049.18,UPI,4.3
+Restaurant_383,2024-01-05,7,51,174.74,UPI,1.6
+Restaurant_458,2024-06-12,4,58,770.42,Wallet,2.6
+Restaurant_138,2024-06-28,10,82,555.71,COD,4.2
+Restaurant_54,2024-01-19,9,33,1646.44,Wallet,4.9
+Restaurant_73,2024-10-22,9,87,293.5,COD,3.6
+Restaurant_349,2024-06-13,6,39,423.98,COD,1.5
+Restaurant_430,2024-11-15,5,84,1379.02,Wallet,2.6
+Restaurant_180,2024-12-22,2,28,1164,Wallet,4.7
+Restaurant_204,2024-02-23,4,81,1693.97,"Credit Card",2.3
+Restaurant_496,2024-02-14,2,53,642.58,UPI,1.7
+Restaurant_43,2024-11-28,5,56,630.51,UPI,1.9
+Restaurant_364,2024-08-23,9,88,395.95,UPI,1.1
+Restaurant_356,2024-10-15,3,21,1140.47,COD,4.7
+Restaurant_376,2024-02-13,3,35,907.75,UPI,1.6
+Restaurant_148,2024-12-08,7,24,1004.22,COD,3.5
+Restaurant_446,2024-05-20,1,32,239.87,"Credit Card",2.2
+Restaurant_146,2024-06-03,3,30,1173.9,UPI,4.9
+Restaurant_182,2024-12-22,3,38,1156.36,COD,3.2
+Restaurant_51,2024-03-22,2,38,892.31,Wallet,4.9
+Restaurant_84,2024-08-01,10,18,128.03,"Net Banking",3.9
+Restaurant_144,2024-12-28,2,43,512.11,COD,3
+Restaurant_300,2024-11-26,10,27,1130.28,COD,3.7
+Restaurant_155,2024-06-01,5,42,1552.97,UPI,2.5
+Restaurant_425,2024-08-09,6,77,1291.13,UPI,3.2
+Restaurant_265,2024-07-05,7,43,1098.11,COD,3.6
+Restaurant_191,2024-06-05,4,79,1442.45,"Net Banking",3.5
+Restaurant_36,2024-05-23,9,68,1008.34,"Credit Card",1.1
+Restaurant_281,2024-03-13,10,26,1526.66,UPI,4.5
+Restaurant_466,2024-03-01,8,31,701.65,COD,3.2
+Restaurant_111,2024-09-27,8,88,1097.44,UPI,3.6
+Restaurant_335,2024-08-25,3,24,1862.13,"Credit Card",3.8
+Restaurant_185,2024-01-03,8,72,253.97,Wallet,4.2
+Restaurant_216,2024-03-12,9,57,1432.16,COD,3.4
+Restaurant_463,2024-01-02,9,16,532.99,Wallet,2.7
+Restaurant_357,2024-05-02,8,50,675.66,"Credit Card",3.3
+Restaurant_345,2024-09-17,4,80,309.77,"Net Banking",3.8
+Restaurant_38,2024-01-27,5,79,885.23,UPI,1.7
+Restaurant_237,2024-08-26,9,28,404.07,"Credit Card",4.4
+Restaurant_63,2024-11-10,7,51,1688.71,UPI,4.2
+Restaurant_74,2024-04-09,4,69,360.74,Wallet,3.1
+Restaurant_134,2024-08-16,9,16,1717.11,Wallet,1.5
+Restaurant_300,2024-06-27,3,59,332.36,Wallet,1.5
+Restaurant_160,2024-05-24,9,19,739.01,UPI,3
+Restaurant_349,2024-08-23,2,90,1938.17,"Credit Card",4.2
+Restaurant_82,2024-12-18,3,81,1865.85,"Credit Card",4.5
+Restaurant_277,2024-11-24,6,31,816.3,UPI,2.1
+Restaurant_67,2024-08-24,9,45,1563.92,"Net Banking",4.4
+Restaurant_170,2024-08-18,3,48,177.05,"Credit Card",4.9
+Restaurant_447,2024-07-14,9,20,112.24,UPI,4.4
+Restaurant_426,2024-09-13,9,61,1915.46,Wallet,4.2
+Restaurant_466,2024-10-03,6,48,1796.63,"Net Banking",1.3
+Restaurant_157,2024-06-18,2,63,1258.06,COD,5
+Restaurant_202,2024-06-08,2,62,1012.22,"Credit Card",2.6
+Restaurant_376,2024-06-22,2,28,665.22,Wallet,3.3
+Restaurant_353,2024-09-04,6,88,298.04,"Net Banking",3.6
+Restaurant_258,2024-04-14,7,59,1166.3,"Net Banking",4.3
+Restaurant_244,2024-10-16,4,86,416.56,Wallet,1.7
+Restaurant_405,2024-07-20,5,22,480.95,Wallet,4.5
+Restaurant_199,2024-02-09,4,31,121.87,UPI,4.4
+Restaurant_391,2024-06-19,5,86,1351.62,Wallet,1.6
+Restaurant_40,2024-03-23,9,89,338.44,"Credit Card",2.6
+Restaurant_439,2024-05-07,3,47,901.19,Wallet,1.4
+Restaurant_151,2024-01-26,1,45,728.42,"Credit Card",1.2
+Restaurant_142,2024-08-20,6,60,1077.2,COD,2.6
+Restaurant_365,2024-06-26,5,31,291.5,"Net Banking",1.4
+Restaurant_182,2024-02-05,3,61,1571.71,"Net Banking",1.2
+Restaurant_460,2024-07-21,9,81,746.07,Wallet,2.9
+Restaurant_244,2024-07-05,10,59,1771.39,"Net Banking",1.1
+Restaurant_410,2024-02-06,6,59,510.13,UPI,2.4
+Restaurant_344,2024-02-17,3,45,1138.45,COD,3.8
+Restaurant_412,2024-03-03,10,29,1906.47,COD,1.3
+Restaurant_245,2024-12-27,5,45,675.83,"Net Banking",2.4
+Restaurant_1,2024-04-27,4,87,725.05,Wallet,4.8
+Restaurant_12,2024-02-11,6,83,1146.99,UPI,4.7
+Restaurant_160,2024-02-28,1,54,1879.58,"Credit Card",2.7
+Restaurant_168,2024-12-17,5,50,1977.92,COD,2.5
+Restaurant_117,2024-10-15,5,87,858.46,"Credit Card",1.1
+Restaurant_445,2024-12-21,8,77,1686.94,COD,3.7
+Restaurant_295,2024-01-19,2,54,562.65,"Net Banking",2.9
+Restaurant_383,2024-07-06,5,44,1675.56,COD,1.3
+Restaurant_462,2024-06-25,6,48,1285.47,"Credit Card",4.3
+Restaurant_226,2024-03-19,4,46,581.08,UPI,1.6
+Restaurant_91,2024-12-10,8,30,755.11,"Net Banking",2
+Restaurant_200,2024-09-12,1,35,580.33,UPI,1.5
+Restaurant_101,2024-08-12,1,37,970.83,Wallet,2.2
+Restaurant_456,2024-04-09,4,69,349.92,UPI,4.3
+Restaurant_263,2024-03-04,7,15,359.09,COD,1.5
+Restaurant_86,2024-09-08,7,58,1941.94,"Net Banking",4.8
+Restaurant_44,2024-11-13,3,77,1890.63,UPI,1.4
+Restaurant_406,2024-01-09,1,63,343.63,Wallet,1.2
+Restaurant_236,2024-07-11,5,37,186.72,UPI,4.1
+Restaurant_457,2024-12-04,7,89,1455.79,UPI,3.5
+Restaurant_12,2024-07-17,1,15,1052.89,"Credit Card",4.8
+Restaurant_37,2024-12-19,7,61,1329.9,"Credit Card",4.4
+Restaurant_70,2024-06-23,8,50,212.97,"Credit Card",3
+Restaurant_417,2024-03-10,10,22,410.74,Wallet,1.1
+Restaurant_266,2024-01-19,9,56,1453.1,Wallet,4.1
+Restaurant_285,2024-03-20,8,30,272.08,UPI,4.2
+Restaurant_173,2024-09-28,7,50,1141.3,UPI,4.3
+Restaurant_146,2024-08-18,6,31,443.33,Wallet,2
+Restaurant_149,2024-05-18,4,17,748.49,"Credit Card",4
+Restaurant_442,2024-10-02,5,78,448.32,Wallet,3.9
+Restaurant_319,2024-06-09,4,69,619.68,UPI,3.7
+Restaurant_360,2024-07-08,5,87,375.56,Wallet,4.1
+Restaurant_4,2024-07-14,6,75,289.55,"Net Banking",2.9
+Restaurant_291,2024-09-17,1,38,681.6,Wallet,1.7
+Restaurant_468,2024-11-21,10,82,194.55,Wallet,1.7
+Restaurant_255,2024-12-08,10,75,146.67,Wallet,4
+Restaurant_446,2024-09-05,3,32,190.66,COD,1.9
+Restaurant_130,2024-03-23,6,80,889.43,Wallet,2.6
+Restaurant_314,2024-01-17,6,80,833.99,COD,3.5
+Restaurant_69,2024-10-27,10,45,1551.91,UPI,2.7
+Restaurant_66,2024-06-01,2,23,1074.38,UPI,2.4
+Restaurant_492,2024-08-03,9,64,415.78,COD,4.5
+Restaurant_490,2024-04-27,9,17,976.15,COD,1.3
+Restaurant_120,2024-08-01,2,67,390.49,Wallet,3.1
+Restaurant_71,2024-01-02,10,89,267.96,Wallet,4.6
+Restaurant_470,2024-11-05,1,79,1095.03,UPI,4.2
+Restaurant_4,2024-12-26,8,36,353.26,UPI,3.5
+Restaurant_448,2024-05-06,10,18,515.13,"Net Banking",1.9
+Restaurant_463,2024-05-27,4,66,1880.37,"Credit Card",1.1
+Restaurant_97,2024-02-23,3,64,1975.93,"Net Banking",2.3
+Restaurant_398,2024-10-23,10,36,719.25,Wallet,1.2
+Restaurant_49,2024-06-19,1,38,139.31,UPI,3.3
+Restaurant_141,2024-09-28,8,47,378.37,"Net Banking",4.5
+Restaurant_16,2024-10-15,6,49,873.99,UPI,2.5
+Restaurant_467,2024-08-19,5,73,154.38,Wallet,4
+Restaurant_55,2024-09-26,3,21,954.8,COD,1.4
+Restaurant_445,2024-07-16,3,63,1885.3,"Net Banking",1.6
+Restaurant_277,2024-02-01,9,57,1811.41,"Credit Card",2.9
+Restaurant_4,2024-01-15,2,29,1436.74,"Credit Card",1.6
+Restaurant_48,2024-11-10,5,78,1776.8,"Credit Card",4.9
+Restaurant_247,2024-11-22,8,86,266.66,UPI,4.5
+Restaurant_157,2024-04-14,5,39,560.69,COD,1.9
+Restaurant_86,2024-05-25,9,66,567.55,UPI,1.5
+Restaurant_394,2024-06-23,7,44,245.54,UPI,4.1
+Restaurant_152,2024-01-22,9,45,1820.92,"Credit Card",2
+Restaurant_224,2024-05-04,9,85,319.6,COD,4
+Restaurant_241,2024-09-18,5,48,121.69,COD,2.8
+Restaurant_16,2024-03-13,9,78,1722.92,"Net Banking",1.1
+Restaurant_183,2024-06-14,10,62,1409.63,"Credit Card",2.9
+Restaurant_238,2024-03-03,9,88,654.23,COD,2.6
+Restaurant_8,2024-12-24,2,90,1158.91,"Net Banking",2.4
+Restaurant_52,2024-01-26,2,57,1704.15,"Credit Card",2
+Restaurant_290,2024-08-22,9,54,433.24,Wallet,1.6
+Restaurant_230,2024-10-15,9,77,1658.4,UPI,3.4
+Restaurant_217,2024-06-02,10,19,1192.99,UPI,4.4
+Restaurant_431,2024-11-11,10,68,1487.45,COD,4.8
+Restaurant_62,2024-07-03,7,68,1383.1,UPI,2.3
+Restaurant_162,2024-03-23,8,53,406.66,COD,1.8
+Restaurant_487,2024-05-04,3,73,1635.55,UPI,1.3
+Restaurant_24,2024-08-19,10,64,1132.7,Wallet,1.8
+Restaurant_327,2024-12-18,10,58,253.71,"Credit Card",1.6
+Restaurant_222,2024-08-23,8,87,257,COD,1.1
+Restaurant_243,2024-08-14,4,30,306.29,"Net Banking",1.8
+Restaurant_14,2024-08-19,2,51,1943.23,Wallet,3
+Restaurant_57,2024-10-11,6,57,1134.11,Wallet,1.5
+Restaurant_34,2024-10-06,4,37,1358.98,COD,2.5
+Restaurant_95,2024-04-27,8,90,812.65,UPI,1
+Restaurant_302,2024-01-26,10,24,1150.15,UPI,2.6
+Restaurant_88,2024-06-01,5,72,1910.27,Wallet,3.7
+Restaurant_402,2024-07-17,7,28,1641.36,Wallet,3.6
+Restaurant_77,2024-10-01,10,34,238.29,COD,4.8
+Restaurant_289,2024-05-25,6,70,1663.78,UPI,1.5
+Restaurant_451,2024-05-14,10,79,571.03,"Credit Card",2.2
+Restaurant_420,2024-10-25,3,33,1842.23,UPI,1.6
+Restaurant_112,2024-04-18,9,88,863.92,Wallet,2.4
+Restaurant_157,2024-02-13,6,17,528.28,Wallet,2.1
+Restaurant_326,2024-05-25,7,35,1462.78,Wallet,1.9
+Restaurant_348,2024-10-06,3,46,1137.08,"Credit Card",1
+Restaurant_117,2024-07-09,7,21,681.75,COD,4
+Restaurant_359,2024-10-17,2,88,883.42,UPI,4.7
+Restaurant_489,2024-06-12,6,65,1335.59,"Net Banking",4.9
+Restaurant_383,2024-08-26,8,57,1570.57,COD,4.3
+Restaurant_281,2024-10-08,7,72,1616.96,"Net Banking",2.3
+Restaurant_214,2024-01-02,1,26,1112.44,"Net Banking",3.5
+Restaurant_471,2024-01-03,1,27,790.93,UPI,4.9
+Restaurant_232,2024-08-04,10,73,130.93,COD,4.1
+Restaurant_101,2024-06-13,6,34,182.67,UPI,3.6
+Restaurant_60,2024-02-03,8,28,434.99,"Net Banking",1.1
+Restaurant_340,2024-04-22,3,34,1508.11,"Net Banking",1.2
+Restaurant_217,2024-05-15,3,68,796.43,"Credit Card",4.2
+Restaurant_430,2024-12-24,2,35,1606.5,COD,1
+Restaurant_467,2024-09-28,6,61,1995.93,COD,3.5
+Restaurant_477,2024-01-27,10,23,1592.76,"Credit Card",2.2
+Restaurant_193,2024-06-20,6,69,387.98,UPI,2.3
+Restaurant_475,2024-02-13,2,87,174.15,UPI,4.4
+Restaurant_173,2024-11-17,6,59,720.26,"Credit Card",2.5
+Restaurant_258,2024-04-22,9,86,1533.49,"Net Banking",1.3
+Restaurant_46,2024-06-26,7,17,904.07,UPI,1.7
+Restaurant_316,2024-04-14,7,79,128.09,Wallet,1.1
+Restaurant_444,2024-05-15,5,50,279.18,"Credit Card",2.7
+Restaurant_151,2024-09-01,2,89,1250.98,"Credit Card",2
+Restaurant_464,2024-02-18,4,90,212.27,"Credit Card",1.1
+Restaurant_425,2024-05-11,2,55,865.08,Wallet,2.9
+Restaurant_303,2024-12-10,9,27,647.33,"Credit Card",2.8
+Restaurant_225,2024-03-20,6,70,198.65,"Net Banking",3
+Restaurant_293,2024-03-11,10,89,527.5,"Net Banking",3.2
+Restaurant_115,2024-01-12,2,51,484.76,UPI,1.8
+Restaurant_473,2024-01-20,2,47,211.81,"Net Banking",3.6
+Restaurant_223,2024-04-24,8,77,1939.66,Wallet,1.1
+Restaurant_180,2024-07-19,4,48,1842.52,"Credit Card",2.6
+Restaurant_483,2024-09-06,10,81,1367.95,UPI,1.7
+Restaurant_446,2024-09-22,10,67,524.41,UPI,2.7
+Restaurant_379,2024-12-22,3,62,478.47,"Net Banking",1.6
+Restaurant_146,2024-02-11,8,28,424.51,"Credit Card",3.1
+Restaurant_166,2024-09-08,10,34,1590.09,"Net Banking",1.2
+Restaurant_272,2024-12-22,8,43,1335.36,Wallet,4.2
+Restaurant_340,2024-06-13,10,52,773.8,Wallet,2.7
+Restaurant_402,2024-08-10,3,61,1097.73,UPI,2.8
+Restaurant_323,2024-09-25,8,88,680.73,COD,2.3
+Restaurant_382,2024-09-01,4,43,1572.83,"Credit Card",4.7
+Restaurant_474,2024-06-19,9,19,1838.87,Wallet,1.1
+Restaurant_311,2024-10-13,6,18,925.24,Wallet,1
+Restaurant_426,2024-10-27,8,65,198.83,"Credit Card",3.4
+Restaurant_254,2024-09-27,8,29,245.95,UPI,2.5
+Restaurant_430,2024-11-14,6,48,559.45,COD,2.9
+Restaurant_77,2024-09-21,6,57,329.8,"Net Banking",3.3
+Restaurant_428,2024-07-10,8,42,754.99,UPI,3.9
+Restaurant_160,2024-03-02,7,46,343.83,UPI,3.5
+Restaurant_178,2024-02-15,2,16,336.79,UPI,3.5
+Restaurant_392,2024-04-04,2,64,734.19,Wallet,1.4
+Restaurant_309,2024-07-20,6,30,973.26,"Net Banking",2.7
+Restaurant_427,2024-01-28,10,21,1002.53,COD,2.5
+Restaurant_450,2024-10-21,4,42,946.96,UPI,2.1
+Restaurant_235,2024-09-15,1,34,599.48,"Credit Card",3.3
+Restaurant_170,2024-12-15,4,32,946.83,UPI,4.9
+Restaurant_410,2024-08-21,4,24,120.81,"Credit Card",1.3
+Restaurant_456,2024-07-08,9,26,829.53,"Net Banking",3.7
+Restaurant_370,2024-11-10,7,89,1420.54,COD,2.6
+Restaurant_37,2024-05-10,8,58,1033.63,COD,2.7
+Restaurant_185,2024-05-23,10,56,1158.01,UPI,4.7
+Restaurant_266,2024-12-15,9,79,395.17,COD,1.9
+Restaurant_31,2024-08-06,2,24,1670.03,COD,1.9
+Restaurant_408,2024-04-24,1,18,487.6,COD,1.7
+Restaurant_205,2024-11-11,8,88,191.92,UPI,4.6
+Restaurant_484,2024-05-02,7,46,881.77,"Net Banking",5
+Restaurant_277,2024-06-07,2,87,643.81,"Credit Card",1.5
+Restaurant_171,2024-01-04,9,84,712.56,UPI,3.9
+Restaurant_337,2024-08-09,3,61,1514.49,"Credit Card",4.9
+Restaurant_91,2024-10-04,4,66,1534.21,"Net Banking",3
+Restaurant_332,2024-01-27,1,16,1049.9,Wallet,2.1
+Restaurant_393,2024-05-12,9,82,409.7,UPI,4.3
+Restaurant_218,2024-11-27,1,89,1447.74,"Net Banking",1.5
+Restaurant_31,2024-10-02,2,29,968.33,UPI,4.4
+Restaurant_487,2024-01-05,5,65,835.72,Wallet,2.2
+Restaurant_259,2024-03-25,2,53,439.38,Wallet,1.7
+Restaurant_51,2024-06-07,1,33,1393.53,"Credit Card",1.6
+Restaurant_74,2024-11-10,7,52,635.73,"Credit Card",3.2
+Restaurant_496,2024-04-09,5,53,586.33,COD,1.7
+Restaurant_3,2024-05-02,3,33,923,"Credit Card",3.5
+Restaurant_360,2024-06-07,10,73,421.83,"Net Banking",1.9
+Restaurant_47,2024-10-04,7,89,331.77,COD,3.7
+Restaurant_56,2024-07-25,10,49,911.61,"Net Banking",3.4
+Restaurant_458,2024-03-16,8,21,1587.3,COD,4
+Restaurant_457,2024-02-03,4,70,1175.59,"Net Banking",1.5
+Restaurant_332,2024-06-27,6,59,563.51,Wallet,4
+Restaurant_317,2024-04-08,10,76,640.93,UPI,3.8
+Restaurant_356,2024-10-07,3,26,1144.57,"Credit Card",3.5
+Restaurant_258,2024-09-07,8,39,1057.79,"Credit Card",4
+Restaurant_170,2024-10-21,10,58,1274.72,UPI,3.7
+Restaurant_238,2024-02-14,2,63,767.31,COD,2.6
+Restaurant_394,2024-08-19,5,62,1009.17,Wallet,3.7
+Restaurant_34,2024-02-01,2,51,1048.38,"Net Banking",3.9
+Restaurant_331,2024-01-22,6,19,477.85,"Credit Card",3.4
+Restaurant_372,2024-09-09,7,50,1705.39,"Net Banking",2.7
+Restaurant_167,2024-06-17,10,57,671.1,"Credit Card",2.4
+Restaurant_490,2024-04-03,3,69,382.12,UPI,2.7
+Restaurant_412,2024-11-09,7,84,660.07,COD,4.1
+Restaurant_68,2024-08-21,3,72,1366.95,"Net Banking",3.6
+Restaurant_344,2024-04-07,9,54,906.93,Wallet,1.8
+Restaurant_182,2024-08-12,9,61,392.93,UPI,4.9
+Restaurant_201,2024-03-04,8,87,1044.5,"Net Banking",2.6
+Restaurant_259,2024-07-06,4,83,1106.18,UPI,4.1
+Restaurant_211,2024-05-22,1,59,487.69,Wallet,2.4
+Restaurant_87,2024-07-28,10,32,1684.55,UPI,4.6
+Restaurant_142,2024-03-19,6,36,1303.84,UPI,3.5
+Restaurant_283,2024-02-20,5,79,1298.15,UPI,2.5
+Restaurant_434,2024-04-01,9,72,1106.88,"Credit Card",1.8
+Restaurant_359,2024-12-18,8,54,799.48,"Credit Card",1.6
+Restaurant_230,2024-04-03,1,27,1939.11,Wallet,2.1
+Restaurant_482,2024-10-01,7,73,795.17,"Credit Card",1.4
+Restaurant_335,2024-06-17,10,89,1295.76,Wallet,3.7
+Restaurant_484,2024-03-19,3,82,780.31,"Net Banking",2.9
+Restaurant_453,2024-06-02,10,50,996.29,UPI,3.7
+Restaurant_181,2024-07-13,4,49,1409.06,"Credit Card",1.3
+Restaurant_187,2024-09-19,5,79,1261.75,Wallet,3.2
+Restaurant_255,2024-11-14,4,19,162.47,COD,3.3
+Restaurant_493,2024-12-13,7,72,640.56,"Credit Card",3.7
+Restaurant_58,2024-07-28,5,54,330.59,Wallet,3.5
+Restaurant_2,2024-01-01,8,57,800.47,UPI,3.2
+Restaurant_213,2024-07-07,3,61,765.73,Wallet,3
+Restaurant_366,2024-01-04,2,50,462.75,UPI,3.7
+Restaurant_246,2024-10-06,9,81,628.12,"Credit Card",1.9
+Restaurant_434,2024-12-26,2,53,1956.04,Wallet,3.7
+Restaurant_388,2024-04-17,7,59,706.24,Wallet,2.5
+Restaurant_267,2024-06-19,4,18,693.77,"Credit Card",3
+Restaurant_374,2024-02-05,3,52,588.1,UPI,1.2
+Restaurant_485,2024-05-07,9,85,1165.07,"Credit Card",4.7
+Restaurant_394,2024-03-08,3,90,196.32,UPI,2.3
+Restaurant_359,2024-11-10,4,64,1381.47,Wallet,4.9
+Restaurant_22,2024-09-22,6,38,411.05,"Credit Card",2
+Restaurant_245,2024-04-07,9,52,1437.74,"Net Banking",1
+Restaurant_34,2024-04-10,9,40,858.34,"Credit Card",3.9
+Restaurant_27,2024-05-02,2,45,500,"Net Banking",3.3
+Restaurant_131,2024-03-05,10,54,1385.8,"Net Banking",1.8
+Restaurant_272,2024-01-27,3,29,938.46,"Net Banking",2.4
+Restaurant_183,2024-11-18,4,52,207.32,COD,4.4
+Restaurant_366,2024-04-15,1,45,506.76,COD,2
+Restaurant_300,2024-11-19,7,25,1683.5,Wallet,2.6
+Restaurant_182,2024-05-03,7,19,103.06,"Credit Card",3.3
+Restaurant_80,2024-08-08,7,39,648.95,Wallet,3.5
+Restaurant_379,2024-03-24,1,79,238.04,"Credit Card",2.2
+Restaurant_451,2024-04-13,4,48,545.28,Wallet,2
+Restaurant_355,2024-10-27,8,15,1743.2,Wallet,2.2
+Restaurant_362,2024-02-13,10,36,1608.97,"Net Banking",3.4
+Restaurant_211,2024-07-26,1,41,1098.86,Wallet,1.5
+Restaurant_451,2024-03-15,6,44,946.59,Wallet,2.5
+Restaurant_91,2024-09-06,5,41,1219.05,UPI,3.4
+Restaurant_128,2024-02-09,2,85,1245.67,"Net Banking",3.9
+Restaurant_1,2024-02-19,1,55,451.06,"Credit Card",2.1
+Restaurant_256,2024-03-09,1,35,1626.07,UPI,2.3
+Restaurant_436,2024-04-20,6,33,1464.44,"Credit Card",2.8
+Restaurant_161,2024-07-10,4,61,673.96,COD,3.5
+Restaurant_261,2024-06-28,8,86,289.39,"Net Banking",2.7
+Restaurant_262,2024-09-23,6,52,806.29,UPI,1.6
+Restaurant_350,2024-06-21,1,52,1451.74,COD,3.4
+Restaurant_389,2024-04-20,6,39,540.58,COD,3.6
+Restaurant_478,2024-01-20,2,64,1789.88,UPI,2.2
+Restaurant_345,2024-02-18,6,75,810.66,"Net Banking",3.1
+Restaurant_481,2024-05-23,7,61,230.9,UPI,2.9
+Restaurant_60,2024-05-13,8,75,345.01,Wallet,4.8
+Restaurant_27,2024-11-12,4,55,1518.18,"Net Banking",1
+Restaurant_387,2024-05-06,1,63,494.18,Wallet,1.7
+Restaurant_48,2024-01-28,9,16,693.66,Wallet,1.6
+Restaurant_275,2024-07-28,7,26,1868.15,COD,3
+Restaurant_342,2024-12-05,2,72,1041.15,"Net Banking",3.4
+Restaurant_98,2024-05-24,4,64,1239.67,UPI,3
+Restaurant_7,2024-11-20,3,77,174.6,Wallet,3.8
+Restaurant_73,2024-11-08,4,77,929.97,UPI,1.4
+Restaurant_361,2024-11-16,4,34,1879.58,COD,3
+Restaurant_2,2024-06-06,1,82,829.22,"Credit Card",2.8
+Restaurant_460,2024-06-15,10,53,491.39,"Credit Card",2.2
+Restaurant_101,2024-09-12,8,81,1396.47,UPI,1.4
+Restaurant_33,2024-04-05,9,19,653.97,COD,2.9
+Restaurant_178,2024-08-10,8,16,268.86,UPI,4.6
+Restaurant_221,2024-04-02,3,48,624.92,Wallet,1.6
+Restaurant_147,2024-02-08,10,59,1246.81,UPI,1.9
+Restaurant_353,2024-03-17,2,28,831.84,"Credit Card",1.1
+Restaurant_305,2024-08-21,6,90,1753.65,Wallet,4.5
+Restaurant_187,2024-08-14,3,76,1104.3,Wallet,4.5
+Restaurant_185,2024-06-02,6,53,198.84,COD,3.4
+Restaurant_170,2024-12-02,4,53,1276.48,"Credit Card",4.4
+Restaurant_371,2024-06-25,10,47,538.19,COD,3.9
+Restaurant_305,2024-10-19,2,19,150.54,"Credit Card",4.5
+Restaurant_232,2024-04-27,3,88,233.16,COD,3
+Restaurant_210,2024-09-16,7,89,1360.59,Wallet,4.5
+Restaurant_337,2024-12-04,10,79,1100.96,"Credit Card",2
+Restaurant_363,2024-11-25,10,19,218.78,"Credit Card",4.4
